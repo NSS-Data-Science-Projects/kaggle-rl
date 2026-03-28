@@ -1,1 +1,1 @@
-# kaggle-rl
+# Kaggle - Predicting Rocket League Rank
